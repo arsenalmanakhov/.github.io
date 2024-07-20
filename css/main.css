@@ -185,6 +185,7 @@ body {
     .page-three .feature .card-text-1 {
         padding-left: 5%;
         padding-right: 5%;
+		font-size: 2rem; 
     }
     .img-token {
         border-radius: 1rem;
