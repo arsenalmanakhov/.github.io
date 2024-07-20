@@ -198,6 +198,9 @@ body {
     .loop-slide .img-token {
         border-radius: 1rem;
     }
+	.slider-width {
+		width: 300%;
+	}
 }
 
 @media (max-width: 768px) {
