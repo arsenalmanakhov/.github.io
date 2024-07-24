@@ -6,7 +6,13 @@ html, body {
     height: 100%;
     font-size: 1rem;
 	background: #000000;
+	text-decoration: none
 }
+
+a {
+	text-decoration: none;
+}
+
 body {
     font-family: "JaroCyrillic", sans-serif;
     font-size: 1.5rem;
@@ -221,4 +227,7 @@ body {
         padding-top: 12%;
         padding-bottom: 3rem;
     }
-}
+	.ptap-2 {
+		margin-top: 2rem;
+	}
+} 
